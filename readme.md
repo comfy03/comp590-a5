@@ -1,5 +1,5 @@
 # comp590-A4
-
+## Team member: Comfort Donkor
 # Chain Servers with Dynamic Updates in Erlang
 
 ## Overview
